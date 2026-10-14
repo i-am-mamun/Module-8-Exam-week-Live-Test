@@ -8,6 +8,7 @@ class AppColors {
 
   // Urgent Red Color (Used for Urgent Tag, Blood Droplet & Left Indicator)
   static const Color urgentRed = Color(0xFFEF4444);
+  static const Color urgentRedBackground = Color(0xFFFFECEB);
 
   // Background Colors
   static const Color scaffoldBackground = Color(0xFFF3F4F6);
